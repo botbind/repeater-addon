@@ -1,0 +1,12 @@
+{
+  "name": "repeater",
+  "version": "1.0.1",
+  "description": "Make the bot say something you want it to say",
+  "main": "index.js",
+  "peerDependencies": {
+    "@botbind/klasa": "0.5.4-dev"
+  },
+  "keywords": [],
+  "author": "Bot Bind",
+  "license": "ISC"
+}
